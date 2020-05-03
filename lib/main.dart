@@ -54,7 +54,7 @@ class _NinjaCardState extends State<NinjaCard> {
             ),
             ),
             SizedBox(height: 10.0),
-            Text("Maryam",
+            Text("NAMMMEE",
             style: TextStyle(
               color: Colors.amberAccent[200],
               letterSpacing: 2.0,
